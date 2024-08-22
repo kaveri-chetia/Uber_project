@@ -52,3 +52,6 @@ The Gradient boosting regressor model and the random forest regressor model both
 ## Conclusion
 
 In conclusion, the Uber Fare Prediction project successfully demonstrates the application of machine learning to predict ride costs based on various factors such as distance, time, and location. By developing this model, we enhance transparency for users, allowing them to anticipate fare costs more accurately, which improves their overall experience. Additionally, the model provides valuable insights for Uber, enabling the company to manage demand more efficiently and optimize pricing strategies. This project lays the groundwork for future enhancements, such as integrating real-time data, expanding to other ride-sharing platforms, and developing personalized fare prediction models. Overall, the project not only benefits users by offering cost predictability but also supports Uber in maintaining a competitive edge in the dynamic ride-sharing market.
+
+[Presentation](https://docs.google.com/presentation/d/1NBEXrlc_n9n70xWjFFB5tVtXd13ixMxz7pUKtuStOf4/edit#slide=id.g2f42c13bfb0_0_281)
+[stramlit](http://localhost:8501/)
