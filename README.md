@@ -1,5 +1,5 @@
 ## Problem statement
-Considering the everyday increase in popularity  of uber and to enhance transparency, improves user experience, to make better decision-making for both users and the company,  it got crucial to build  app to optimize its pricing strategy.
+Considering the everyday increase in popularity  of uber and to enhance transparency, to improve user experience, to make better decision-making for both users and the company,  it got crucial to build an app to optimize its pricing strategy.
 
 ## Project overview
 The goal of this project is to develop a machine learning model that can accurately predict the fare of an Uber ride given specific input features such as the pickup and dropoff locations, time of day, and other relevant factors. 
@@ -10,7 +10,7 @@ The goal of this project is to develop a machine learning model that can accurat
 
 ## [Data source](https://www.kaggle.com/datasets/yasserh/uber-fares-dataset)
 
-The details of the dataset can be found in the metadata.
+The details of the dataset can be found in the below metadata.
 
 
 ## Metadata
